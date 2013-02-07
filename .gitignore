@@ -18,3 +18,7 @@
 
 # OS X stuff
 .DS_Store
+
+# Executables
+HW1/student/hw
+HW1/student/compare
